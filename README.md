@@ -36,21 +36,24 @@ It is built to improve **agricultural productivity, sustainability, and farmer p
   - F1-Score
 
 ---
-
+```
 ## 📂 Project Structure
 ├── data/
-│ └── Crop_recommendation.csv # Dataset
-├── notebooks/
-│ └── crop_recommendation.ipynb # Main code & analysis
+│   └── Crop_recommendation.csv # Dataset
+├── code/
+│   └── crop_recommendation.ipynb # Main code & analysis
 ├── visuals/
-│ ├── label_encoding.png
-│ ├── correlation_heatmap.png
-│ └── model_accuracy.png
+│   ├── label_encoding.png
+│   ├── class_distribution.png
+│   └── model_comparisions.png
 ├── docs/
-│ ├── III-IDP_batch_5_updated.docx 
-│ └── Idp final ppt.pptx # Presentation
+│   ├── Climate_Crop_Recommendation_Report.docx
+│   ├── Climate_Crop_Recommendation_Presentation.pptx # Presentation
+│   └── Climate_Crop_Recommendation_Research_Paper.pdf # Research paper
 ├── README.md # Project documentation
 └── requirements.txt # Python dependencies
+
+```
 
 
 
@@ -105,12 +108,7 @@ Source: [Kaggle - Crop Recommendation Dataset](https://www.kaggle.com/datasets/a
 
 ---
 
-## 📊 Visualizations
-| Label Encoding | Correlation Heatmap | Model Comparison |
-|----------------|-------------------|-----------------|
-| ![Label Encoding](visuals/label_encoding.png) | ![Correlation Heatmap](visuals/correlation_heatmap.png) | ![Model Comparison](visuals/model_comparision.png) |
 
----
 
 ## 📊 Visualizations
 | Label Encoding | Class Distribution | Model Comparison |
@@ -136,6 +134,8 @@ Add features like soil type, pest detection, and market price trends.
 Build a farmer-friendly mobile/web app for recommendations.
 
 Use Explainable AI (XAI) for better interpretability.
+
+---
 
 👨‍💻 Contributors
 Abhirama Raju Nadimpalli
