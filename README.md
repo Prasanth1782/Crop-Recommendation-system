@@ -106,15 +106,25 @@ Source: [Kaggle - Crop Recommendation Dataset](https://www.kaggle.com/datasets/a
 ---
 
 ## 📊 Visualizations
-| Label Encoding | Correlation Heatmap | Accuracy Comparison |
-|----------------|-------------------|--------------------|
-| ![Label Encoding](visuals/label_encoding.png) | ![Heatmap](visuals/correlation_heatmap.png) | ![Accuracy](visuals/model_accuracy.png) |
+| Label Encoding | Correlation Heatmap | Model Comparison |
+|----------------|-------------------|-----------------|
+| ![Label Encoding](visuals/label_encoding.png) | ![Correlation Heatmap](visuals/correlation_heatmap.png) | ![Model Comparison](visuals/model_comparision.png) |
+
+---
+
+## 📊 Visualizations
+| Label Encoding | Class Distribution | Model Comparison |
+|----------------|-------------------|-----------------|
+| ![Label Encoding](visuals/label_encoding.png) | ![Class Distribution](visuals/class_distribution.png) | ![Model Comparison](visuals/model_comparision.png) |
 
 ---
 
 ## 📖 Documentation
-- [📄 Full Project Report (DOCX)](docs/III-IDP_batch_5_updated.docx)  
-- [📊 Presentation Slides (PPTX)](docs/Idp%20final%20ppt.pptx)
+- [📄 Full Project Report (DOCX)](docs/Climate_Crop_Recommendation_Report.docx)  
+- [📊 Presentation Slides (PPTX)](docs/Climate_Crop_Recommendation_Report_Presentation.pptx)  
+- [📕 Research Paper (PDF)](docs/Climate_Crop_Recommendation_Report_Research_paper.pdf)
+
+
 
 ---
 
