@@ -108,21 +108,21 @@ Source: [Kaggle - Crop Recommendation Dataset](https://www.kaggle.com/datasets/a
 
 ---
 
-```
+
 ## 📊 Visualizations
 | Label Encoding | Class Distribution | Model Comparison |
 |---|---|---|
-| ![Label Encoding](visuals/label_encoding.png) | ![Class Distribution](visuals/class_distribution.png) | ![Model Comparison](visuals/Model_Comparision.png) |
-```
+| ```[Label Encoding](visuals/label_encoding.png)``` | ```[Class Distribution](visuals/class_distribution.png)``` | ```[Model Comparison](visuals/Model_Comparision.png) ```|
+
 ---
 
-```
+
 ## 📖 Documentation
 - [📄 Full Project Report (DOCX)](docs/Climate_Crop_Recommendation_Report.docx)
 - [📊 Presentation Slides (PPTX)](docs/Climate_Crop_Recommendation_Presentation.pptx)
 - [📕 Research Paper (PDF)](docs/Climate_Crop_Recommendation_Research_Paper.pdf)
 ```
----
+
 🌱 Future Scope
 Integrate real-time IoT sensor data for predictions.
 
