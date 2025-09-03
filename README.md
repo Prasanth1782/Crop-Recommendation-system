@@ -110,9 +110,16 @@ Source: [Kaggle - Crop Recommendation Dataset](https://www.kaggle.com/datasets/a
 
 
 ## 📊 Visualizations
-| Label Encoding | Class Distribution | Model Comparison |
-|---|---|---|
-| ```[Label Encoding](visuals/label_encoding.png)``` | ```[Class Distribution](visuals/class_distribution.png)``` | ```[Model Comparison](visuals/Model_Comparision.png) ```|
+
+### 🔹 Class Distribution
+![Class Distribution](Visuals/class_distribution.png)
+
+### 🔹 Label Encoding
+![Label Encoding](Visuals/label_encoding.png)
+
+### 🔹 Model Comparison
+![Model Comparison](Visuals/Model_Comparision.png)
+
 
 ---
 
