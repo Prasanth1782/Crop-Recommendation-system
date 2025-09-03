@@ -1,0 +1,14 @@
+# Core libraries
+numpy==1.26.4               # For numerical computations
+pandas==2.2.2               # For data manipulation & analysis
+
+# Machine Learning
+scikit-learn==1.5.0         # ML algorithms, metrics, preprocessing
+imbalanced-learn==0.12.2    # SMOTE & handling imbalanced datasets
+
+# Visualization
+matplotlib==3.9.0           # Basic plotting
+seaborn==0.13.2             # Advanced plots & statistical visuals
+
+# Notebook environment
+jupyter==1.0.0              # Jupyter notebook support
